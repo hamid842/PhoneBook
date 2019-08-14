@@ -1,0 +1,12 @@
+hamid mohamadi 1	021-33333298	9125287485	fdsjsk1@hgefksw.com	FRIEND
+hamid mohamadi 2	021-33333299	9125287485	fdsjsk1@hgefksw.com	FRIEND
+hamid mohamadi 3	021-33333300	9125287485	fdsjsk1@hgefksw.com	FRIEND
+hamid mohamadi 4	021-33333301	9125287485	fdsjsk1@hgefksw.com	FRIEND
+hamid mohamadi 5	021-33333302	9125287485	fdsjsk1@hgefksw.com	COLLEAGUE
+hamid mohamadi 6	021-33333303	9125287485	fdsjsk1@hgefksw.com	COLLEAGUE
+hamid mohamadi 7	021-33333304	9125287485	fdsjsk1@hgefksw.com	COLLEAGUE
+hamid mohamadi 8	021-33333305	9125287485	fdsjsk1@hgefksw.com	COLLEAGUE
+hamid mohamadi 9	021-33333306	9125287485	fdsjsk1@hgefksw.com	PERSONAL
+hamid mohamadi 10	021-33333307	9125287485	fdsjsk1@hgefksw.com	OTHER
+hamid mohamadi 11	021-33333308	9125287485	fdsjsk1@hgefksw.com	PERSONAL
+
